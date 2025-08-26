@@ -2,8 +2,8 @@
 Contributors: YYDevelopment
 Tags: Whatsapp, Button, Call, Chat
 Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 2.1.0
+Tested up to: 6.7
+Stable tag: 2.1.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -93,6 +93,9 @@ Under the tag "settings" on the admin panel you will have the option to edit the
 = 2.1.0 =
 * Added donation button to the plugin description
 * Escaping data better
+
+= 2.1.1 =
+* Fixed broken access control vulnerability 
 
 == Upgrade Notice ==
 

@@ -4,7 +4,7 @@
 Plugin Name: YYDevelopment - Fast Whatsapp Chat Button
 Plugin URI:  https://www.yydevelopment.com/yydevelopment-wordpress-plugins/
 Description: Simple plugin that allow you add whatsapp chat button to your site
-Version:     2.1.0
+Version:     2.1.1
 Author:      YYDevelopment
 Author URI:  https://www.yydevelopment.com/
 */
