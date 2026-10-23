@@ -1,8 +1,8 @@
 ﻿=== Fast Chat Button ===
-Contributors: YYDevelopment
+Contributors: yydevelopment, yochay22
 Tags: Whatsapp, Button, Call, Chat
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.1
 Stable tag: 2.1.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
